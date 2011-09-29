@@ -1,0 +1,404 @@
+macrepo
+	DigitalCommons
+		Departments
+			Divinity College
+				Divinity College Publications
+				Divinity College Theses
+			Faculty of Engineering
+				Department of Chemical Engineering
+					Chemical Engineering Publications
+					Chemical Engineering Theses
+				Department of Civil Engineering
+					Civil Engineering Publications
+					Civil Engineering Theses
+				Department of Computing and Software
+					Computing and Software Publications
+					Computing and Software Theses
+				Department of Electrical and Computer Engineering
+					EE 4BI6 Electrical Engineering Biomedical Capstones
+					Electrical and Computer Engineering Publications
+					Electrical and Computer Engineering Theses
+				Department of Engineering Physics
+					Engineering Physics Publications
+					Engineering Physics Theses
+				Department of Materials Science and Engineering
+					Materials Science and Engineering Publications
+					Materials Science and Engineering Theses
+				Department of Mechanical Engineering
+					Mechanical Engineering Publications
+					Mechanical Engineering Theses
+				Neuroscience
+					Neuroscience Publications
+					Neuroscience Theses
+				School of Biomedical Engineering
+					Biomedical Engineering Publications
+					Biomedical Engineering Theses
+				School of Computational Engineering and Science
+					Computational Engineering and Science Publications
+					Computational Engineering & Computational Science Theses
+				School of Engineering Practice
+					Engineering Practice Theses
+					School of Engineering Practice Publications
+			Faculty of Health Sciences
+				Biochemistry and Biomedical Science
+					Biochemistry Publications
+					Bio Chemistry Theses
+				Biomedical Engineering
+					Biomedical Engineering Publications
+					Biomedical Engineering Theses
+				Canadian Institutes of Health Research - Research
+				eHealth
+					eHealth Publications
+					eHealth Theses
+				Faculty of Health Sciences Theses
+					Faculty of Health Sciences Theses
+				Global Health
+					Global Health Publications
+					Global Health Theses
+				Health Management
+					Health Management Publications
+					Health Management Theses
+				Health Policy
+					Health Policy Publications
+					Health Policy Theses
+				Health Research Methodology
+					Health Research Methodology Publications
+					Health Research Methodology Theses
+				Medical Sciences
+					Medical Sciences Publications
+					Medical Sciences Theses
+				Neuroscience
+					Neuroscience Publications
+					Neuroscience Theses
+				Nursing
+					Nursing Publications
+					Nursing Theses
+				Occupational Therapy
+					Occupational Therapy Publications
+					Occupational Therapy Theses
+				Physiotherapy
+					Physiotherapy Publications
+					Physiotherapy Theses
+				Rehabilitation Sciences
+					Rehabilitation Science Publications
+					Rehabilitation Science Theses
+			Faculty of Humanities
+				Art & Art History
+					Art & Art History Publications
+					Art & Art History Theses
+				Department of Classics
+					Classics Publications
+					Classics Theses
+				Department of Communication Studies and Multimedia
+					Communication Studies and Multimedia Publications
+					Communication Studies and Multimedia Theses
+					Graduate Major Research Papers and Multimedia Projects
+				Department of English & Cultural Studies
+					English & Cultural Studies Theses
+					English & Cultural Studies Publications
+				Department of French
+					French Publications
+					French Theses
+				Department of History
+					History Publications
+					History Theses
+				Department of Linguistics & Languages
+					Linguistics & Languages Publications
+					Linguistics & Languages Theses
+				Department of Music
+					Music Publications
+					Music Theses
+				Department of Philosophy
+					Philosophy Publications
+					Philosophy Theses
+				Theatre & Film Studies
+					Theatre & Film Studies Publications
+					Theatre & Film Studies Theses
+			Faculty of Science
+				Computing and Software
+					Computing and Software Publications
+					Computing and Software Theses
+				Department of Biology
+					Biology Publications
+					Biology Theses
+				Department of Chemistry & Chemical Biology
+					Chemistry & Chemical Biology Theses
+					Chemistry & Chemical Biology Publications
+				Department of Geography & Earth Sciences
+					Geography & Earth Sciences Theses
+					Geography & Earth Sciences Publications
+				Department of Kinesiology
+					Kinesiology Publications
+					Kinesiology Theses
+				Department of Mathematics & Statistics
+					Mathematics & Statistics Theses
+					Mathematics & Statistics Publications
+				Department of Medical Physics & Applied Radiation Sciences
+					Medical Physics & Applied Radiation Sciences Publications
+					Medical Physics & Applied Radiation Sciences Theses
+				Department of Physics & Astronomy
+					Physics and Astronomy Publications
+					Physics & Astronomy Theses
+				Department of Psychology, Neuroscience & Behaviour
+					Psychology, Neuroscience & Behaviour Publications
+					Psychology, Neuroscience & Behaviour Theses
+				Materials Science and Engineering
+					Materials Science and Engineering Publications
+					Materials Science and Engineering Theses
+				Neuroscience
+					Neuroscience Publications
+					Neuroscience Theses
+			Faculty of Social Sciences
+				Centre for Peace Studies
+					Peace Studies Publications
+					Peace Studies Theses
+				Department of Anthropology
+					Anthropology Publications
+					Anthropology Theses
+				Department of Economics
+					Economics Publications
+					Economics Theses
+				Department of Health, Aging & Society
+					Health, Aging and Society Theses
+					Health, Aging and Society Publications
+				Department of Political Science
+					Political Science Publications
+					Political Science Theses
+				Department of Sociology
+					Sociology Publications
+					Sociology Theses
+				Geography and Earth Sciences
+					Geography & Earth Sciences Theses
+					Geography & Earth Sciences Publications
+				Indigenous Studies Program
+					Indigenous Studies Publications
+					Indigenous Studies Theses
+				Institute on Globalization and the Human Condition
+					Globalization Publications
+					Globalization Theses
+				Neuroscience
+					Neuroscience Publications
+					Neuroscience Theses
+				Psychology, Neuroscience and Behaviour
+					Psychology, Neuroscience & Behaviour Publications
+					Psychology, Neuroscience & Behaviour Theses
+				Religious Studies Publications
+					Religious Studies Publications
+					Religious Studies Theses
+				School of Labour Studies
+					Labour Studies Publications
+					Labour Studies Theses
+				School of Social Work
+					Social Work Publications
+					Social Work Theses
+				Women's Studies
+					Gender Studies and Feminist Research Publications
+					Gender Studies and Feminist Research Theses
+			School of Business
+				Human Resources & Management
+					Human Resources & Management Publications
+				Information Systems
+					Information Systems Publications
+				Operations Management
+					Operations Management Publications
+				School of Business Theses
+					School of Business Theses
+		Research Centres and Institutes
+			Events & Conferences
+				Code4Lib North
+			McMaster Health Forum
+				Dialogue summaries
+				Documentary (Audio)
+				Documentary (Video)
+				Evidence brief
+				Issue brief
+				Post-dialogue interviews (Audio)
+				Post-dialogue interviews (Video)
+				Public lecture (Audio)
+				Public lecture (Video)
+				Student publication
+				Topic Overviews
+			McMaster University Libraries
+				McMaster Library News
+				McMaster University Libraries Publications
+				The McMaster Collection
+			Office of the Registrar
+				Undergraduate Calendars
+			Open Dissertations and Theses
+				Open Access Dissertations and Theses
+			Provost, Office of the
+				Task Force on Alternative Budget Models
+				Task Force on Evaluation, Accountability and Measurement
+				Task Force On Teaching And Learning
+			Research and International Affairs
+				Wertheimer@Mac
+			School of Graduate Studies
+				Graduate Calendar
+				SGS Graduate Committees: Agenda & Minutes
+			STAR - Science and Technology for Archaeological Research
+				Annual Meeting Proceedings
+				Databases
+				Presentations
+				Publications
+				Videos
+			The Works of Richard Sylvan (Richard Routley)
+				Exploring Meinong's Jungle and Beyond
+				General Philosophy
+				Sylvan's Works on Environmental Philosophy and Ethics
+				Sylvan's Works on Logics
+			Undergraduate Student Research Awards (USRA)
+				Faculty of Humanities
+				Faculty of Social Sciences
+		Journals
+			Bridges: Conversations in Global Politics
+			Early Theatre
+			Eighteenth-Century Fiction
+			Energy Studies Review
+			Esurio: Journal of Hunger and Poverty
+			Global Labour Journal
+			Journal of Professional Communication
+			NEXUS
+			Perceptia
+			Russell: the Journal of Bertrand Russell Studies
+			Text Technology
+			The McMaster Journal of Communication
+			The Meducator
+			The Sophie Journal
+	Lloyd Reeds Map Collection
+		Italian Topographical Maps
+			Italy 1:100,000 (1942-1946)
+			Italy 1:250,000 (1943)
+	McMaster University Libraries Book Collection
+	The William Ready Division of Archives and Research Collections
+		Adrian Grant Duff fonds
+		Alex Aronson collection
+		Bernard Freeman Trotter fonds
+		Bertrand Russell fonds
+		C. K. Ogden fonds
+		Canadian Campaign for Nuclear Disarmament fonds
+		Canadian Peace Congress fonds
+		Canadian Y.M.C.A with Overseas Military Forces of Canada collection
+		Canadian Youth Congress fonds
+		Canadian student social and political organizations collection
+		Canadiana postcard collection
+			Alberta
+			British Columbia
+			Manitoba
+			New Brunswick
+			Newfoundland and Labrador
+			Northwest Territories
+			Nova Scotia
+			Nunavut
+			Prince Edward Island
+			Ontario
+			Quebec
+			Saskatchewan
+			Yukon
+		Claire Culhane fonds
+		Combined Universities Campaign for Nuclear Disarmament - Student Union for Peace Action - New Left Committee fonds
+		Cooperative Committee on Japanese Canadians fonds
+		Crombie family fonds
+		Cyrus Eaton collection
+		Diss Urban Military Service Local Tribunal fonds
+		E. H. Cookridge fonds
+		Eric Aldwinckle collection
+		George Edward Gordon Catlin fonds
+		Gerald Blake fonds
+		Hans Sinn fonds
+		Jane Abbott fonds
+		John Barclay collection
+		John Innes Merrylees fonds
+		John Lisle fonds
+		Julian Gould fonds
+		Lady Constance Malleson fonds
+		Marion S. Simpson fonds
+		McDaniel family fonds
+		Mulberry Harbours collection
+		Nancy B. Kennedy-Reid fonds
+		National Federation of Canadian University Students fonds
+		Organization of Solidarity with the People of Asia, Africa and Latin America poster collection
+		Otto and Ada Hartmann fonds
+		Pigeon Service Message
+		Research Collections Book Collection
+		Research Collections Gov. Docs.
+		Research Collections periodicals
+		Russell Archives Supporting Library
+		Saarlouis Theatrical Committee fonds
+		Siegfried Sassoon collection
+		Sir John William McNee fonds
+		Sir Norman Angell fonds
+		Spanish Civil War collection
+		Tools for Peace. Branch office (Hamilton, Ont.) fonds
+		Toronto Association for Peace fonds
+		Vera Brittain fonds
+		Vimy Pilgrimage collection
+		War Songs from the first half of the twentieth century collection
+		William Fingland fonds
+		World War II Westminster City Engineer’s Air Raid Precautionary (ARP) fonds
+		World War, 1939-1945, German Concentration Camps and Prisons Collection
+			Concentration Camp Correspondence	
+			Additional Concentration Camps Documents	
+			Internment and Transit Camps Correspondence	
+			Gestapo Prisons Correspondence	
+			German Prisoner of War (POW) Correspondence	
+			Receipts for Parcels, Money Orders and Personal Effects	
+			Paper Currency	
+			Realia
+		World War, 1939-1945, Jewish Underground Resistance Collection
+			Documents in Yiddish: Leaflets and Internal Documents	
+			Documents of Jewish Resistance Groups and other Groups	
+				Comité d'action et De Défense de la Jeunesse Juive (CADJJ)	
+				Forces Unies de la Jeunesse Patriotique	
+				French Communist Party (PCF); including Groupe Juif	
+				FTPF and FFI after the Liberation	
+				FTPF and FFI During the Occupation or the Liberation	
+				Jeunesse Communiste Juive (ou Jeunes Communistes Juifs)	
+				Miscellaneous or Unidentified Groups after the Occupation	
+				Miscellaneous or Unidentified Groups during the Occupation	
+				MOI (Main d'Oeuvre Immigrée)	
+				Mouvement de Défense et de Solidarité Contre les Persécutions Antijuives et les Déportations	
+				Mouvement National Contre le Racisme (MNCR)	
+				Polish Groups	
+				Union de la Jeunesse Juive (UJJ)	
+				Union des Juifs pour la Résistance et l'Entr'aide	
+			Documents on Prisons, Prisoners and Deportées	
+				Documents on Torture, Executions, etc.	
+				Mouvement National des Prisonniers de Guerre et Déportés	
+				Songs and Poems from Prison	
+				Specific Prisons or Camps	
+				Unidentified Prisons or Camps	
+				Various Provincial Prisons	
+			Documents Relating to Collaboration	
+				Épuration [Purge]	
+				Government of Vichy - Collaboration	
+			French Leaflets: Jews and Jewish Underground Groups	
+		World War, 1914-1918, Trench maps and aerial photographs
+			Trench Maps	
+				1:5,000	
+				1:10,000	
+				1:20,000	
+				1:24,000	
+				1:25,000	
+				1:40,000	
+				1:50,000	
+				1:58,290	
+				1:63,360	
+				1:80,000	
+				1:100,000	
+				1:125,000	
+				1:200,000	
+				1:250,000	
+				1:600,000	
+				1:750,000	
+				1:864,000	
+				1:1,000,000	
+				1:2,759,000	
+				1:6,300,000	
+				622" = 1 mile	
+				Unknown scale	
+			Aerial Photography	
+				All scales
+		World War, 1914-1918, collection
+		World War, 1914-1918, poster collection
+		World War, 1939-1945 collection
+		World War, 1939-1945, poster collection
