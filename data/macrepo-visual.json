@@ -1,0 +1,1048 @@
+{
+"macrepo":
+{
+  "rows" : [
+    {
+      "node - TEXT" : "Departments",
+      "node - node - TEXT" : "Divinity College",
+      "node - node - node - TEXT" : "Divinity College Publications",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Divinity College Theses",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "Faculty of Engineering",
+      "node - node - node - TEXT" : "Department of Chemical Engineering",
+      "node - node - node - node - TEXT" : "Chemical Engineering Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Chemical Engineering Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Department of Civil Engineering",
+      "node - node - node - node - TEXT" : "Civil Engineering Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Civil Engineering Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Department of Computing and Software",
+      "node - node - node - node - TEXT" : "Computing and Software Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Computing and Software Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Department of Electrical and Computer Engineering",
+      "node - node - node - node - TEXT" : "EE 4BI6 Electrical Engineering Biomedical Capstones"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Electrical and Computer Engineering Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Electrical and Computer Engineering Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Department of Engineering Physics",
+      "node - node - node - node - TEXT" : "Engineering Physics Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Engineering Physics Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Department of Materials Science and Engineering",
+      "node - node - node - node - TEXT" : "Materials Science and Engineering Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Materials Science and Engineering Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Department of Mechanical Engineering",
+      "node - node - node - node - TEXT" : "Mechanical Engineering Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Mechanical Engineering Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Neuroscience",
+      "node - node - node - node - TEXT" : "Neuroscience Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Neuroscience Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "School of Biomedical Engineering",
+      "node - node - node - node - TEXT" : "Biomedical Engineering Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Biomedical Engineering Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "School of Computational Engineering and Science",
+      "node - node - node - node - TEXT" : "Computational Engineering and Science Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Computational Engineering & Computational Science Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "School of Engineering Practice",
+      "node - node - node - node - TEXT" : "Engineering Practice Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "School of Engineering Practice Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "Faculty of Health Sciences",
+      "node - node - node - TEXT" : "Biochemistry and Biomedical Science",
+      "node - node - node - node - TEXT" : "Biochemistry Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Bio Chemistry Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Biomedical Engineering",
+      "node - node - node - node - TEXT" : "Biomedical Engineering Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Biomedical Engineering Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Canadian Institutes of Health Research - Research",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "eHealth",
+      "node - node - node - node - TEXT" : "eHealth Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "eHealth Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Faculty of Health Sciences Theses",
+      "node - node - node - node - TEXT" : "Faculty of Health Sciences Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Global Health",
+      "node - node - node - node - TEXT" : "Global Health Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Global Health Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Health Management",
+      "node - node - node - node - TEXT" : "Health Management Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Health Management Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Health Policy",
+      "node - node - node - node - TEXT" : "Health Policy Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Health Policy Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Health Research Methodology",
+      "node - node - node - node - TEXT" : "Health Research Methodology Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Health Research Methodology Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Medical Sciences",
+      "node - node - node - node - TEXT" : "Medical Sciences Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Medical Sciences Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Neuroscience",
+      "node - node - node - node - TEXT" : "Neuroscience Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Neuroscience Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Nursing",
+      "node - node - node - node - TEXT" : "Nursing Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Nursing Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Occupational Therapy",
+      "node - node - node - node - TEXT" : "Occupational Therapy Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Occupational Therapy Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Physiotherapy",
+      "node - node - node - node - TEXT" : "Physiotherapy Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Physiotherapy Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Rehabilitation Sciences",
+      "node - node - node - node - TEXT" : "Rehabilitation Science Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Rehabilitation Science Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "Faculty of Humanities",
+      "node - node - node - TEXT" : "Art & Art History",
+      "node - node - node - node - TEXT" : "Art & Art History Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Art & Art History Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Department of Classics",
+      "node - node - node - node - TEXT" : "Classics Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Classics Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Department of Communication Studies and Multimedia",
+      "node - node - node - node - TEXT" : "Communication Studies and Multimedia Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Communication Studies and Multimedia Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Graduate Major Research Papers and Multimedia Projects"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Department of English & Cultural Studies",
+      "node - node - node - node - TEXT" : "English & Cultural Studies Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "English & Cultural Studies Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Department of French",
+      "node - node - node - node - TEXT" : "French Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "French Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Department of History",
+      "node - node - node - node - TEXT" : "History Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "History Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Department of Linguistics & Languages",
+      "node - node - node - node - TEXT" : "Linguistics & Languages Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Linguistics & Languages Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Department of Music",
+      "node - node - node - node - TEXT" : "Music Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Music Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Department of Philosophy",
+      "node - node - node - node - TEXT" : "Philosophy Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Philosophy Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Theatre & Film Studies",
+      "node - node - node - node - TEXT" : "Theatre & Film Studies Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Theatre & Film Studies Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "Faculty of Science",
+      "node - node - node - TEXT" : "Computing and Software",
+      "node - node - node - node - TEXT" : "Computing and Software Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Computing and Software Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Department of Biology",
+      "node - node - node - node - TEXT" : "Biology Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Biology Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Department of Chemistry & Chemical Biology",
+      "node - node - node - node - TEXT" : "Chemistry & Chemical Biology Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Chemistry & Chemical Biology Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Department of Geography & Earth Sciences",
+      "node - node - node - node - TEXT" : "Geography & Earth Sciences Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Geography & Earth Sciences Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Department of Kinesiology",
+      "node - node - node - node - TEXT" : "Kinesiology Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Kinesiology Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Department of Mathematics & Statistics",
+      "node - node - node - node - TEXT" : "Mathematics & Statistics Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Mathematics & Statistics Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Department of Medical Physics & Applied Radiation Sciences",
+      "node - node - node - node - TEXT" : "Medical Physics & Applied Radiation Sciences Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Medical Physics & Applied Radiation Sciences Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Department of Physics & Astronomy",
+      "node - node - node - node - TEXT" : "Physics and Astronomy Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Physics & Astronomy Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Department of Psychology, Neuroscience & Behaviour",
+      "node - node - node - node - TEXT" : "Psychology, Neuroscience & Behaviour Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Psychology, Neuroscience & Behaviour Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Materials Science and Engineering",
+      "node - node - node - node - TEXT" : "Materials Science and Engineering Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Materials Science and Engineering Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Neuroscience",
+      "node - node - node - node - TEXT" : "Neuroscience Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Neuroscience Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "Faculty of Social Sciences",
+      "node - node - node - TEXT" : "Centre for Peace Studies",
+      "node - node - node - node - TEXT" : "Peace Studies Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Peace Studies Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Department of Anthropology",
+      "node - node - node - node - TEXT" : "Anthropology Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Anthropology Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Department of Economics",
+      "node - node - node - node - TEXT" : "Economics Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Economics Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Department of Health, Aging & Society",
+      "node - node - node - node - TEXT" : "Health, Aging and Society Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Health, Aging and Society Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Department of Political Science",
+      "node - node - node - node - TEXT" : "Political Science Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Political Science Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Department of Sociology",
+      "node - node - node - node - TEXT" : "Sociology Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Sociology Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Geography and Earth Sciences",
+      "node - node - node - node - TEXT" : "Geography & Earth Sciences Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Geography & Earth Sciences Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Indigenous Studies Program",
+      "node - node - node - node - TEXT" : "Indigenous Studies Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Indigenous Studies Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Institute on Globalization and the Human Condition",
+      "node - node - node - node - TEXT" : "Globalization Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Globalization Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Neuroscience",
+      "node - node - node - node - TEXT" : "Neuroscience Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Neuroscience Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Psychology, Neuroscience and Behaviour",
+      "node - node - node - node - TEXT" : "Psychology, Neuroscience & Behaviour Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Psychology, Neuroscience & Behaviour Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Religious Studies Publications",
+      "node - node - node - node - TEXT" : "Religious Studies Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Religious Studies Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "School of Labour Studies",
+      "node - node - node - node - TEXT" : "Labour Studies Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Labour Studies Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "School of Social Work",
+      "node - node - node - node - TEXT" : "Social Work Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Social Work Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Women's Studies",
+      "node - node - node - node - TEXT" : "Gender Studies and Feminist Research Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : "Gender Studies and Feminist Research Theses"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "School of Business",
+      "node - node - node - TEXT" : "Human Resources & Management",
+      "node - node - node - node - TEXT" : "Human Resources & Management Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Information Systems",
+      "node - node - node - node - TEXT" : "Information Systems Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Operations Management",
+      "node - node - node - node - TEXT" : "Operations Management Publications"
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "School of Business Theses",
+      "node - node - node - node - TEXT" : "School of Business Theses"
+    },    {
+      "node - TEXT" : "Research Centres and Institutes",
+      "node - node - TEXT" : "Events & Conferences",
+      "node - node - node - TEXT" : "Code4Lib North",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "McMaster Health Forum",
+      "node - node - node - TEXT" : "Dialogue summaries",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Documentary (Audio)",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Documentary (Video)",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Evidence brief",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Issue brief",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Post-dialogue interviews (Audio)",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Post-dialogue interviews (Video)",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Public lecture (Audio)",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Public lecture (Video)",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Student publication",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Topic Overviews",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "McMaster University Libraries",
+      "node - node - node - TEXT" : "McMaster Library News",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "McMaster University Libraries Publications",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "The McMaster Collection",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "Office of the Registrar",
+      "node - node - node - TEXT" : "Undergraduate Calendars",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "Open Dissertations and Theses",
+      "node - node - node - TEXT" : "Open Access Dissertations and Theses",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "Provost, Office of the",
+      "node - node - node - TEXT" : "Task Force on Alternative Budget Models",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Task Force on Evaluation, Accountability and Measurement",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Task Force On Teaching And Learning",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "Research and International Affairs",
+      "node - node - node - TEXT" : "Wertheimer@Mac",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "School of Graduate Studies",
+      "node - node - node - TEXT" : "Graduate Calendar",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "SGS Graduate Committees: Agenda & Minutes",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "STAR - Science and Technology for Archaeological Research",
+      "node - node - node - TEXT" : "Annual Meeting Proceedings",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Databases",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Presentations",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Publications",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Videos",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "The Works of Richard Sylvan (Richard Routley)",
+      "node - node - node - TEXT" : "Exploring Meinong's Jungle and Beyond",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "General Philosophy",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Sylvan's Works on Environmental Philosophy and Ethics",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Sylvan's Works on Logics",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "Undergraduate Student Research Awards (USRA)",
+      "node - node - node - TEXT" : "Faculty of Humanities",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : "Faculty of Social Sciences",
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : "Journals",
+      "node - node - TEXT" : "Bridges: Conversations in Global Politics",
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "Early Theatre",
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "Eighteenth-Century Fiction",
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "Energy Studies Review",
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "Esurio: Journal of Hunger and Poverty",
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "Global Labour Journal",
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "Journal of Professional Communication",
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "NEXUS",
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "Perceptia",
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "Russell: the Journal of Bertrand Russell Studies",
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "Text Technology",
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "The McMaster Journal of Communication",
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "The Meducator",
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "The Sophie Journal",
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : "Italian Topographical Maps",
+      "node - node - TEXT" : "Italy 1:100,000 (1942-1946)",
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "Italy 1:250,000 (1943)",
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : "Adrian Grant Duff fonds",
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : "Alex Aronson collection",
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : "Bernard Freeman Trotter fonds",
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : "Bertrand Russell fonds",
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : "C. K. Ogden fonds",
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : "Canadian Campaign for Nuclear Disarmament fonds",
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : "Canadian Peace Congress fonds",
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : "Canadian Y.M.C.A with Overseas Military Forces of Canada collection",
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : "Canadian Youth Congress fonds",
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : "Canadian student social and political organizations collection",
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : "Canadiana postcard collection",
+      "node - node - TEXT" : "Alberta",
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "British Columbia",
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "Manitoba",
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "New Brunswick",
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "Newfoundland and Labrador",
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "Northwest Territories",
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "Nova Scotia",
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "Nunavut",
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "Prince Edward Island",
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "Ontario",
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "Quebec",
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "Saskatchewan",
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : null,
+      "node - node - TEXT" : "Yukon",
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : "Claire Culhane fonds",
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : "Combined Universities Campaign for Nuclear Disarmament - Student Union for Peace Action - New Left Committee fonds",
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : "Cooperative Committee on Japanese Canadians fonds",
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : "Crombie family fonds",
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    },    {
+      "node - TEXT" : "Cyrus Eaton collection",
+      "node - node - TEXT" : null,
+      "node - node - node - TEXT" : null,
+      "node - node - node - node - TEXT" : null
+    }
+  ]
+}
+}
