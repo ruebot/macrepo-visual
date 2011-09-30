@@ -15,7 +15,7 @@ var vis = d3.select("#chart").append("svg:svg")
 
 //d3.json("macrepo-visual.json", function(json) {
 //  var nodes = cluster.nodes(json);
-d3.xml("../data/macrepo-visual.xml", function(xml) {
+d3.xml("data/macrepo-visual.xml", function(xml) {
 	var nodes = cluster.nodes(xml);
 	
   var link = vis.selectAll("path.link")
