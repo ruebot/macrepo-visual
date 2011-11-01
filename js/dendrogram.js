@@ -1,8 +1,8 @@
-var w = 960,
-    h = 2200;
+var w = 1600,
+    h = 3800;
 
 var cluster = d3.layout.cluster()
-    .size([h, w - 160]);
+    .size([h, w - 260]);
 
 var diagonal = d3.svg.diagonal()
     .projection(function(d) { return [d.y, d.x]; });
@@ -13,10 +13,8 @@ var vis = d3.select("#chart").append("svg:svg")
     .append("svg:g")
     .attr("transform", "translate(40, 0)");
 
-//d3.json("macrepo-visual.json", function(json) {
-//  var nodes = cluster.nodes(json);
-d3.xml("data/macrepo-visual.xml", function(xml) {
-	var nodes = cluster.nodes(xml);
+d3.json("data/macrepo-visual.json", function(json) {
+	var nodes = cluster.nodes(json);
 	
   var link = vis.selectAll("path.link")
     	.data(cluster.links(nodes))
