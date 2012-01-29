@@ -2,7 +2,7 @@
 	"name": "macrepo",
 	"children": [
 		{
-			"name": "Digital Collections",
+			"name": "Digital Commons",
 			"children": [
 				{
 					"name": "Departments",
